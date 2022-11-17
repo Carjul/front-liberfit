@@ -1,0 +1,12 @@
+.title{
+    display: flex;
+    align-items: center !important;
+    justify-content: center;
+    height: 100%;
+
+    font-size: 90px;
+}
+
+.landing {
+    background-image: url('../../../../assets/IMG/LandingBG.png');
+}

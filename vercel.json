@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/home",
+      "destination": "https://liberfitpf.vercel.app/home",
+      
+    }
+  ]
+}
